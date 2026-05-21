@@ -1,0 +1,14 @@
+{
+  "name": "escpos-interpreter",
+  "version": "1.0.0",
+  "description": "ESC/POS XML interpreter using fast-xml-parser",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^4.5.0"
+  }
+}
